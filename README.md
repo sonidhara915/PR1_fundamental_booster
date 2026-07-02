@@ -2,7 +2,7 @@
 
 # 🌟 Interactive Personal Data Collector
 
-> 🚀 **A beginner-friendly Python project that collects user information, explores data types, and calculates the approximate birth year.**
+> 🚀 **A beginner-friendly Python project that collects user information, explores data types, and calculates the approximate birth year**
 
 ---
 
