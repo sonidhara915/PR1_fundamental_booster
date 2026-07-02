@@ -193,5 +193,5 @@ After completing this project, you will be able to:
 
 ## For connection
 - linkedin id = www.linkedin.com/in/dhara-kondhiya-278893411
-- mail id = sonidhara915@gmail.com
+- G-mail id = sonidhara915@gmail.com
 
