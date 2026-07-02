@@ -43,6 +43,10 @@ Useful as a teaching example for people learning:
 - The difference between data types (text, whole numbers, decimals)
 - How variables and object identity work under the hood
 
-#For connection.
-linkedin id = www.linkedin.com/in/dhara-kondhiya-278893411
-mail id = sonidhara915@gmail.com
+## Explanation video 
+- https://drive.google.com/file/d/1B1kvL9F23uqYu1VgMjVPnXbYaAg6pevx/view?usp=drive_link
+
+##For connection.
+- linkedin id = www.linkedin.com/in/dhara-kondhiya-278893411
+- mail id = sonidhara915@gmail.com
+
