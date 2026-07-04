@@ -189,8 +189,7 @@ After completing this project, you will be able to:
 ---
 
 ## Explanation video 
-- https://drive.google.com/file/d/1B1kvL9F23uqYu1VgMjVPnXbYaAg6pevx/view?usp=drive_link
-
+- https://drive.google.com/file/d/1qLKJ72njAldqOzjxcrFaFHwKbHU7ucU5/view?usp=sharing
 ## For connection
 - linkedin id = www.linkedin.com/in/dhara-kondhiya-278893411
 - G-mail id = sonidhara915@gmail.com
